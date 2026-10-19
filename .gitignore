@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+# Supplied evidence pack and viewer-level/generated data must not be pushed to GitHub.
+/data/
+/config/
+/replay/
+/pilot/
+/sample_run/
